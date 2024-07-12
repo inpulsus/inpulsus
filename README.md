@@ -49,8 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/inpulsus/inpulsus/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">

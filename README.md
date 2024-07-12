@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Inpulsus and I'm a Historian, History teacher and hobby app and game developer from Slovenia.</h1>
+<h1 align="center">Hi 👋! My name is Inpulsus and I'm a historian, history teacher and hobby app and game developer from Slovenia.</h1>
 
 ###
 
@@ -9,6 +9,7 @@
 ###
 
 :technologist: Test - Aplikacija za ocenejvanje znanja [Test](https://github.com/inpulsus/Test "Test")
+:thought_balloon: Give-Source - Aplikacija za pridobivanje in odpiranje strokovnih virov ter literature [Give-Source]([https://github.com/inpulsus/Test "Test"](https://github.com/inpulsus/Give-Source)
 
 ###
 

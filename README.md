@@ -9,7 +9,8 @@
 ###
 
 :technologist: Test - Aplikacija za ocenejvanje znanja [Test](https://github.com/inpulsus/Test "Test")
-:thought_balloon: Give-Source - Aplikacija za pridobivanje in odpiranje strokovnih virov ter literature [Give-Source]([https://github.com/inpulsus/Test "Test"](https://github.com/inpulsus/Give-Source)
+<br>
+:thought_balloon: Give-Source - Aplikacija za pridobivanje in odpiranje strokovnih virov ter literature [Give-Source]([https://github.com/inpulsus/Test "Test"](https://github.com/inpulsus/Give-Source))
 
 ###
 
